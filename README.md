@@ -7,7 +7,7 @@ This python software allow to the user to make Olap Cube.
 This cube could be uploaded on a mondrian platform (also pentaho platform) to be exploited;
 
 # Distribution
-You could find distribution for Linux, Mac or Windows in the 
+You could find distribution for Windows (Linux coming soon)
 
 # Support
 At this link you could find a few documentation to use this software
