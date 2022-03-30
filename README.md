@@ -3,7 +3,7 @@ Educational software to create OLAP Cube for Mondrian and Jpivot platform
 This software is not provided for commercial purpose.
 
 # Description
-This python software allow to the user to make Olap Cube.
+This python software allow users to make Olap Cube.
 This cube could be uploaded on a mondrian platform (also pentaho platform) to be exploited;
 
 # Distribution
