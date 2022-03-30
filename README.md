@@ -7,7 +7,7 @@ This python software allow users to make Olap Cube.
 This cube could be uploaded on a mondrian platform (also pentaho platform) to be exploited;
 
 # Distribution
-You could find distribution for Windows and Linux in the distribution folder.
+You can find package for Windows and Linux in the distribution folder.
 
 # Support
 At this link you could find a few documentation to use this software : https://github.com/Dam4323/olap_generator/blob/main/docs/OLAP_Generator.pdf
